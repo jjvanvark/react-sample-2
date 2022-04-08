@@ -1,0 +1,61 @@
+{
+  "home": {
+    "title": "Dit is de titel",
+    "subtitle": "Dit is de subtitle",
+    "content": "Dit is de inhoud",
+    "link": "Naar de map"
+  },
+  "ships": {
+    "headerDefault": "Alle scheeps types",
+    "shipType": "Type schip:",
+    "travelLabel": "reizen"
+  },
+  "shipDetail": {
+    "archiveLink": "Archief link",
+    "shipLength": "Lengte schip",
+    "shipWidth": "Breedte schip",
+    "shipVolume": "Inhoud schip",
+    "shipDepth": "Diepgang schip",
+    "shipHeight": "Hoogte tussendek",
+    "shipLoad": "Lasten",
+    "buildPlace": "Plaats van bouw",
+    "buildYear": "Jaar voltooing",
+    "buildBuilder": "Scheepstimmerman",
+    "buildAncestor": "Herkomst schip",
+    "buildVoyages": "Aantal reizen in dienst",
+    "buildVoyagesHired": "Aantal reizen verhuurd",
+    "buildVoyagesCancelled": "Aantal reizen geannuleerd"
+  },
+  "people": {
+    "headerDefault": "Alle personen"
+  },
+  "peopleDetail": {
+    "dateOfBirth": "Geboorte datum",
+    "dateOfDeath": "Sterf datum"
+  },
+  "blogItem": {
+    "link": "lees meer"
+  },
+  "buttons": {
+    "switchOn": "Aan",
+    "switchOff": "Uit",
+    "return": "Terug"
+  },
+  "mapFilterPanel": {
+    "title": "Filter",
+    "mainFilterTitle": "Mensenhandel",
+    "travelFilterTitle": "Filter: Type reis",
+    "legendaFilterTitle": "Filter: Onvoltooide reizen",
+    "legenda": {
+      "perish": "Vergaan",
+      "confiscated": "In beslag genomen",
+      "disapproved": "Afgekeurd",
+      "cancelled": "Geannuleerd"
+    }
+  },
+  "map": {
+    "year": {
+      "title": "MCC reizen in"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.html
+
+AuthName "Zeeuwsarchief"
+AuthUserFile /var/www/vhosts/dpipreview.nl/zeeuwsarchief.dpipreview.nl/.htpasswd
+AuthType Basic
+
+require valid-user

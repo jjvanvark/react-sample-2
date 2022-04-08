@@ -1,0 +1,61 @@
+{
+  "home": {
+    "title": "This is the title",
+    "subtitle": "This is the subtitle",
+    "content": "This is the content",
+    "link": "To the map"
+  },
+  "ships": {
+    "headerDefault": "All ships types",
+    "shipType": "Type ship:",
+    "travelLabel": "travels"
+  },
+  "shipDetail": {
+    "archiveLink": "Archive link",
+    "shipLength": "Length ship",
+    "shipWidth": "Width ship",
+    "shipVolume": "Volume ship",
+    "shipDepth": "Depth ship",
+    "shipHeight": "Height steerage",
+    "shipLoad": "Load",
+    "buildPlace": "Origin ship",
+    "buildYear": "Year completed",
+    "buildBuilder": "Ship carpenter",
+    "buildAncestor": "Ship origin",
+    "buildVoyages": "Number of trips in service",
+    "buildVoyagesHired": "Number of trips rented",
+    "buildVoyagesCancelled": "Number of trips cancelled"
+  },
+  "people": {
+    "headerDefault": "All people"
+  },
+  "peopleDetail": {
+    "dateOfBirth": "Date of birth",
+    "dateOfDeath": "Date of death"
+  },
+  "blogItem": {
+    "link": "read more"
+  },
+  "buttons": {
+    "switchOn": "On",
+    "switchOff": "Off",
+    "return": "Return"
+  },
+  "mapFilterPanel": {
+    "title": "Filter",
+    "mainFilterTitle": "Human trafficking",
+    "travelFilterTitle": "Filter: Type of trip",
+    "legendaFilterTitle": "Filter: Unfinished Journeys",
+    "legenda": {
+      "perish": "Perish",
+      "confiscated": "Confiscated",
+      "disapproved": "Disapproved",
+      "cancelled": "Cancelled"
+    }
+  },
+  "map": {
+    "year": {
+      "title": "MCC journeys in"
+    }
+  }
+}
